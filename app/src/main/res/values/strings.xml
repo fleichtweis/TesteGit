@@ -6,6 +6,6 @@
 
     <string name="action_settings">Settings</string>
 
-    <string name="Texto">Exemplo teste Git. Teste Commit</string>
-    <string name="Texto2">Commit 1</string>
+    <string name="text">Exemplo teste Git</string>
+    <string name="text2">Commit 1</string>
 </resources>
